@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React 2020年04月28日22:32:26
         </a>
       </header>
     </div>
